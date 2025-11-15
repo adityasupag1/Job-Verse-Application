@@ -230,5 +230,5 @@ Test all APIs:
 Full-Stack Developer | MERN | AI | Web Apps
 
 GitHub: [https://github.com/adityasupag1](https://github.com/adityasupag1)
-LinkedIn: *add your link*
+LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-44b375259/)
 
