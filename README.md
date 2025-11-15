@@ -4,11 +4,11 @@ A full-stack MERN Job Portal designed to connect **job seekers** with **employer
 Users can register, apply for jobs, manage their profile, and administrators can manage jobs, users, and applications — all from a modern, responsive interface.
 
 This project includes:
-✔ Frontend (React + Vite)
-✔ Backend API (Node.js + Express + MongoDB)
-✔ Cloudinary for file uploads
-✔ Admin Dashboard
-✔ Fully responsive UI
+✔ Frontend (React + Vite) 
+✔ Backend API (Node.js + Express + MongoDB) 
+✔ Cloudinary for file uploads 
+✔ Admin Dashboard 
+✔ Fully responsive UI 
 
 ---
 
