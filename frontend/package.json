@@ -49,5 +49,10 @@
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "This is the front-end application for Job Finder, a platform designed to connect job seekers with potential employers. The application is built using React and Vite, and it leverages various modern web technologies to provide a seamless user experience.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
