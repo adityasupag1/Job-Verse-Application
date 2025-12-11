@@ -78,9 +78,9 @@ export const Footer = () => {
             <Link
               target="_blank"
               className="underline text-black"
-              to="https://github.com/Prasanna0401"
+              to="https://github.com/adityasupag1"
             >
-              Prasanna venkatesh
+              Aditya Raj
             </Link>
           </p>
           <p className="text-sm"> &copy;Copyright, All rights reserved.</p>
